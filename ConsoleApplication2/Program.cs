@@ -13,7 +13,8 @@ namespace ConsoleApplication2
             Console.WriteLine("Hello World using C#!");
             Console.WriteLine("Seriously.... is this thing on?"); // what now
             Console.WriteLine("Tester"); //hmm
-            Console.WriteLine("Again!"); //hmm
+            Console.WriteLine("Again!");
+            Console.WriteLine("Here We Go!");
         }
     }
 }
